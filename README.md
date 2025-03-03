@@ -27,13 +27,13 @@ Each folder contains:
 🔹 **Objective:** Analyze accident trends, causes, and risk factors.  
 🔹 **Skills Used:** Pandas, NumPy, Matplotlib, Seaborn, Tableau.  
 🔹 **Key Insights:** Identified accident hotspots, peak accident hours, and major risk factors.  
-📂 **[Project Details](Road_Accident_Analysis/README.md)**  
+ 
 
 ### 🚖 2. Uber Data Analysis  
 🔹 **Objective:** Understand Uber trip trends, peak hours, and ride demand patterns.  
 🔹 **Skills Used:** Pandas, NumPy, Geopandas, Seaborn, Folium.  
 🔹 **Key Insights:** Discovered high-demand times, most frequent pickup locations, and seasonal ride variations.  
-📂 **[Project Details](Uber_Analysis/README.md)**  
+  
 
 ---
 
